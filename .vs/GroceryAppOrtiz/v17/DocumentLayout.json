@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\GroceryAppOrtiz\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B77B9AB4-34C4-47A7-846E-615B2FA92FBF}|GroceryAppOrtiz\\GroceryAppOrtiz.csproj|e:\\groceryapportiz\\groceryapportiz\\groceryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B77B9AB4-34C4-47A7-846E-615B2FA92FBF}|GroceryAppOrtiz\\GroceryAppOrtiz.csproj|solutionrelative:groceryapportiz\\groceryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B77B9AB4-34C4-47A7-846E-615B2FA92FBF}|GroceryAppOrtiz\\GroceryAppOrtiz.csproj|E:\\GroceryAppOrtiz\\groceryapportiz\\displayform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B77B9AB4-34C4-47A7-846E-615B2FA92FBF}|GroceryAppOrtiz\\GroceryAppOrtiz.csproj|solutionrelative:groceryapportiz\\displayform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B77B9AB4-34C4-47A7-846E-615B2FA92FBF}|GroceryAppOrtiz\\GroceryAppOrtiz.csproj|E:\\GroceryAppOrtiz\\groceryapportiz\\displayform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B77B9AB4-34C4-47A7-846E-615B2FA92FBF}|GroceryAppOrtiz\\GroceryAppOrtiz.csproj|solutionrelative:groceryapportiz\\displayform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GroceryForm.cs [Design]",
+              "DocumentMoniker": "E:\\GroceryAppOrtiz\\GroceryAppOrtiz\\GroceryForm.cs",
+              "RelativeDocumentMoniker": "GroceryAppOrtiz\\GroceryForm.cs",
+              "ToolTip": "E:\\GroceryAppOrtiz\\GroceryAppOrtiz\\GroceryForm.cs [Design]",
+              "RelativeToolTip": "GroceryAppOrtiz\\GroceryForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T14:38:06.911Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DisplayForm.Designer.cs",
+              "DocumentMoniker": "E:\\GroceryAppOrtiz\\GroceryAppOrtiz\\DisplayForm.Designer.cs",
+              "RelativeDocumentMoniker": "GroceryAppOrtiz\\DisplayForm.Designer.cs",
+              "ToolTip": "E:\\GroceryAppOrtiz\\GroceryAppOrtiz\\DisplayForm.Designer.cs",
+              "RelativeToolTip": "GroceryAppOrtiz\\DisplayForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T15:19:09.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DisplayForm.cs [Design]",
+              "DocumentMoniker": "E:\\GroceryAppOrtiz\\GroceryAppOrtiz\\DisplayForm.cs",
+              "RelativeDocumentMoniker": "GroceryAppOrtiz\\DisplayForm.cs",
+              "ToolTip": "E:\\GroceryAppOrtiz\\GroceryAppOrtiz\\DisplayForm.cs [Design]",
+              "RelativeToolTip": "GroceryAppOrtiz\\DisplayForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T15:19:17.91Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
